@@ -11,3 +11,6 @@ int main(){
     
     return 0; 
 }
+
+//Q:为什么用long不用int ?
+//A:因为测试点包含int溢出的数（int32）
